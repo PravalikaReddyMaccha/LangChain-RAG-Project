@@ -1,0 +1,13 @@
+.git
+.venv
+.env
+__pycache__
+*.py[cod]
+.pytest_cache
+.mypy_cache
+faiss_index
+chroma_db
+chroma_db_rebuild
+uploads
+Practice
+try_*.py
