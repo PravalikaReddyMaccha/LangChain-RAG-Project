@@ -1,0 +1,10 @@
+pydantic>=2.13
+pypdf>=6.0
+python-dotenv
+langchain-text-splitters
+langchain_community
+langchain_huggingface
+sentence-transformers
+faiss-cpu
+langchain_groq
+streamlit
